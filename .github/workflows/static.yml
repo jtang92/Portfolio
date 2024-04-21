@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <title>Jesse Tang - Portfolio</title>
+</head>
+<body>
+    <nav class="container-fluid">
+        <ul>
+            <li><strong>Jesse Tang - Portfolio</strong></li>
+        </ul>
+        <ul>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#connect" role="button">Connect</a></li>
+        </ul>
+    </nav>
+    <main class="container">
+        <div class="grid">
+            <section>
+                <h2>👋 Hello, thank you for stopping by!</h2>
+                <h5>About Me</h5>
+                <p>My name is Jesse and I am a skilled data analyst certified by Google's Data Analytics Professional Certificate program. I am capable of handling complex data sets using a variety of tools such as Spreadsheets, SQL, BigQuery, R programming, Tableau, and Visual Studio.</p>
+                <figure>
+                    <img src="https://www.shutterstock.com/image-vector/data-analysis-line-icons-set-600nw-1467065924.jpg"/>
+                </figure>
+                <h3>Skills from Prior Experiences</h3>
+                In addition to my enthusiasm and love for data analytics, I bring over:
+                <p></p><ul>
+                    <li>Advanced data handling and case management capabilities, reflective of handling complex claims investigations</li>
+                    <li>Strategic development and application of analytical skills in data interpretation and problem-solving within regulatory frameworks</li>
+                    <li>Proficient communication skills for negotiating and explaining complex data-driven insights to non-technical stakeholders</li>
+                    <li>Highly organized with proven ability to manage multiple projects and deadlines, akin to managing multi-file caseloads in claims adjustments</li>
+                    <li>Leadership in collaborative settings, driving data projects and sharing analytical insights across teams to improve decision-making processes</li>
+                </ul>
+                <h3>Projects</h3>
+                <section id="projects">
+                <p><strong><a href="https://github.com/jtang92/Case-Study-How-Does-a-Bike-Share-Navigate-Speedy-Success" target="_blank">Case Study 1: How Does a Bike-Share Navigate Speedy Success</a></strong><br>Used customer data to evaluate bike-share performance, determine trends, and identify the cause of these trends. I was then able to propose actionable plans based on my findings.<br></p>
+                <p><strong><a href="https://github.com/jtang92/Case-Study-2-How-Can-a-Wellness-Technology-Company-Play-It-Smart" target="_blank">Case Study 2: How Can a Wellness Technology Company Play It Smart?</a></strong><br>Used sensative customer data to identify and track trends of multiple datasets, and propose business ideas for a wellness tech company, enabling data-driven decision making.<br></p>
+            </section>
+                <br>
+                <br>
+                <section id="connect">
+                <h2>Connect with me!</h2>
+                📧 <a href="mailto:jessetang92@gmail.com">jessetang92@gmail.com</a><br> 
+                📱 (778)628-9109<br>
+                <br>
+                  <div class="social-links">
+                        <a href="https://www.linkedin.com/in/jesse-tang-b8643685/" target="_blank">
+                          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn Logo" style="width: 50px; height: 50px;">
+                      </a>
+                        <a href="https://github.com/jtang92" target="_blank">
+                          <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Logo" style="width: 50px; height: 50px;">
+                      </a>
+                  </div>
+        </div>
+    </main>
+</body>
+</html>
